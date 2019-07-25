@@ -1,2 +1,2 @@
-# airbnb-webscrapping
-This project is to extract the data from airbnb website
+# Amazon-Book-Scrapping
+This project is to extract the data from Amazon website
